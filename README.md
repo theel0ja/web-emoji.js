@@ -2,7 +2,7 @@
 
 Add emoji support to your website easily. Based on WordPress' code.
 
-[Website](https://theel0ja.github.io/web-emoji.js)
+[Website](https://theel0ja.github.io/web-emoji.js/)
 
 ## Usage
 
