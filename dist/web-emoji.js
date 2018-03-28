@@ -4,7 +4,7 @@ window._wpemojiSettings = {
   "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/",
   "svgExt": ".svg",
   "source": {
-    "concatemoji": "https:\/\/cdn.rawgit.com\/WordPress\/WordPress\/4.9.4\/wp-includes\/js\/wp-emoji-release.min.js"
+    "concatemoji": "https:\/\/cdn.theel0ja.info\/libs\/wp-emoji-release\/wp-emoji-release.min.js"
   }
 };
 ! function (a, b, c) {
